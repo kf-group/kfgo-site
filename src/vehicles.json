@@ -1,0 +1,7 @@
+[{"Vehicle":"Hatchback","Segment":"Travel","Seats":"4","First_80km_Rate":"23","After_80km_Rate":"18","Waiting_Per_Hr":"200","Bata_Per_Day":"500"},
+{"Vehicle":"Sedan","Segment":"Travel","Seats":"4","First_80km_Rate":"25","After_80km_Rate":"18","Waiting_Per_Hr":"200","Bata_Per_Day":"500"},
+{"Vehicle":"MPV","Segment":"Travel","Seats":"6","First_80km_Rate":"32","After_80km_Rate":"20","Waiting_Per_Hr":"200","Bata_Per_Day":"500"},
+{"Vehicle":"Premium SUV","Segment":"Travel","Seats":"6","First_80km_Rate":"48","After_80km_Rate":"30","Waiting_Per_Hr":"200","Bata_Per_Day":"500"},
+{"Vehicle":"Traveller","Segment":"Travel","Seats":"15","First_80km_Rate":"75","After_80km_Rate":"32","Waiting_Per_Hr":"250","Bata_Per_Day":"700"},
+{"Vehicle":"Mini Truck (AC cabin · covered body)","Segment":"Logistics","Seats":"","First_80km_Rate":"25","After_80km_Rate":"25","Waiting_Per_Hr":"0","Bata_Per_Day":"500"},
+{"Vehicle":"Cargo Van","Segment":"Logistics","Seats":"","First_80km_Rate":"25","After_80km_Rate":"25","Waiting_Per_Hr":"0","Bata_Per_Day":"600"}]
