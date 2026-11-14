@@ -12,5 +12,5 @@ window.KFGO = {
   razorpayKey: "",
 
   // Optional: Google Apps Script web-app URL that writes each order into KF Ledger as a Lead.
-  leadEndpoint: ""
+  leadEndpoint: "https://script.google.com/macros/s/AKfycbySNyw8xFL7WqlHEctiBCa2oktm5nlhi9FB0Y3tPHjSv242h24iYOjTiPEYeD4_rXdzZw/exec"
 };
